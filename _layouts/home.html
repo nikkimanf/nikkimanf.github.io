@@ -1,20 +1,12 @@
 ---
 layout: default
 ---
+
 <div class="row">
   <div class=".col-auto">
     <h1 class="fw-bold">
       Future-thinking, curious life-long learner with an adaptive mindset.
     </h1>
   </div>
-    {{ content }}
-  </div>
-    <h2 class="fw-bold">Writing</h2>
-    {% for post in site.posts %}
-    <p>
-      <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{
-      post.date | date: "%B %-d, %Y" }}
-    </p>
-    {% endfor %}
-  </div>
+  {{ content }}
 </div>
