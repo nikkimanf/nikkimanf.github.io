@@ -596,7 +596,7 @@ progress {
   max-width: 100%;
   padding-right: calc(var(--bs-gutter-x) / 2);
   padding-left: calc(var(--bs-gutter-x) / 2);
-  margin-top: 20px;
+  margin-top: calc(var(--bs-gutter-x) / 2);
 }
 .col {
   flex: 1 0 0%;
