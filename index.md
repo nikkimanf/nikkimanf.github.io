@@ -3,4 +3,4 @@ layout: home
 title: "Home"
 ---
 
- <img src="{{ site.github.url }}/{{ contact.image }}" width="100%">
+ <img src="assets/img/home-image.png" width="100%">
