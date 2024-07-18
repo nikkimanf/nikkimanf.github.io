@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c65c64fe2f3f900",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "0e9f11dd02351066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-03-01-new-paper-published.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020-03-01-new-paper-published.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020-03-01-new-paper-published.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b4c92d4d63c725b",
+  "active": "0e9f11dd02351066",
   "lastOpenFiles": [
+    "Untitled.md",
     "2020-01-01-sample-post.md",
     "2020-02-01-class-update.md",
     "2020-03-01-new-paper-published.md"
